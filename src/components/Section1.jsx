@@ -1,6 +1,6 @@
 import React from 'react'
 import Left from './Left'
-import Right from './right'
+import Right from './Right'
 
 
 function Section1(props) {
